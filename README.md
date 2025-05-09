@@ -40,26 +40,9 @@ A responsive, single-page marketing website for a fictional software resale star
 - **Zod**: TypeScript-first schema validation
 - **Lucide React**: Icon library
 
-## Time Spent
-
-- Planning and Design: 1 hour
-- Core Structure and Components: 2 hours
-- Styling and Responsiveness: 2 hours
-- Animations and Interactions: 1 hour
-- Form Validation and Functionality: 1 hour
-- Chat Widget Implementation: 1 hour
-- Testing and Refinements: 1 hour
-
-Total: ~9 hours
 
 ## Deployment
 
 The site is deployed on Vercel and can be accessed at the provided live URL.
 
-## Future Enhancements
 
-- Integration with a real backend for form submissions
-- Enhanced AI chat capabilities with a proper LLM integration
-- More detailed animations and micro-interactions
-- Expanded content sections like FAQ, pricing, and blog
-- Analytics integration for tracking user behavior
